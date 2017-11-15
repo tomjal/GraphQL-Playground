@@ -1,2 +1,2 @@
 # GraphQL-Playground
-NodeJS/NoSQL + GraphQL security playground project.
+NodeJS/NoSQL + GraphQL + JWT security playground project.
