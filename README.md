@@ -1,2 +1,2 @@
 # GraphQL-Playground
-GraphQL + NodeJS playground project.
+GraphQL + NodeJS security playground project.
