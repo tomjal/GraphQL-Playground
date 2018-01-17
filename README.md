@@ -1,9 +1,10 @@
 # GraphQL-Playground
 NodeJS/NoSQL + GraphQL + JWT security playground project.
 
-* '*yarn start*' - run nodemon
+* '*yarn start*' - runs nodemon
 
 Server is running on port 3005
+
 '* /graphql *' - graphql api endpoint
 '* /graphiql *' - graphiql playground
 
