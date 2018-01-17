@@ -5,8 +5,8 @@ NodeJS/NoSQL + GraphQL + JWT security playground project.
 
 Server is running on port 3005
 
-'* /graphql *' - graphql api endpoint
-'* /graphiql *' - graphiql playground
+* '* /graphql *' - graphql api endpoint
+* '* /graphiql *' - graphiql playground
 
 ## Sample commands
 
