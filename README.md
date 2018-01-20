@@ -1,4 +1,6 @@
 # GraphQL-Playground
+:construction: WORK IN PROGRESS :construction:
+
 NodeJS/NoSQL + GraphQL + JWT security playground project.
 
 * '*yarn start*' - runs nodemon
